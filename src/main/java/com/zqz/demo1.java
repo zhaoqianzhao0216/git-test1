@@ -6,5 +6,6 @@ public class demo1 {
         int a=7;
         int b=9;
         System.out.println("jkjk_uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu");
+        System.out.println("春去秋来");
     }
 }
